@@ -1,4 +1,4 @@
-_A unified version "unified-chacha20.c" was added as a fork._
+_A unified version "unified-chacha20.c" was added as a fork_, and it doesn't need chacha20.h.
 # chacha20-c
 ChaCha20 stream cipher implemented in C
 
